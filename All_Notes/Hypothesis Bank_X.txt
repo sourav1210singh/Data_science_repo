@@ -1,0 +1,155 @@
+To convert the business problem of Bank X into a data problem using the TOSCAR framework, follow the steps outlined below:
+
+### Trouble ::
+Understand the Trouble:
+	Bank X needs to increase deposit balances to meet regulatory requirements, allowing them to expand their lending portfolio. The problem is about finding the 	       best strategy to do this with limited investment.
+
+	Why Now?: The bank's expansion is being held back by regulatory constraints, and increasing deposits is the key to unlocking further lending.
+
+	Be Specific: The problem is focused on increasing deposit balances, and not directly on expansion.
+
+	Highlight the Problem (Not the Solution):
+	Segmentation: The bank has three customer segments (newly acquired, existing, and those about to leave). The challenge is to identify which segment to focus on  	to maximize deposits with the highest ROI.
+	      
+Ask Why :
+	Why increase deposits?: To expand lending and meet regulatory requirements.
+	Why focus on customer retention?: Customer retention has a 10x higher ROI compared to acquiring new customers.
+	Why is this important now?: The bank's future growth depends on addressing this deposit issue.
+	Underlying Trouble: The core issue is how to maximize deposit growth with limited resources, targeting the customer segment that will provide the highest 	           return.
+Time Sensitivity: Is there a specific timeline for this expansion? Understanding the urgency will help prioritize efforts.
+
+### Owner ::
+Customer Management Director: Likely the primary owner of this problem as it involves managing deposit portfolios.
+Other Stakeholders: Head of Marketing: To design cross-sell/up-sell and promotional campaigns.
+	            Head of Communications: To ensure that customers are informed and engaged.
+Main Sponsor: Bank X’s executive team, who have a vested interest in expanding the bank’s offerings.
+              Who is going to pay for this?: The department that owns the deposit and lending portfolios will likely fund this initiative.
+              How critical is this problem for them?: This is a critical problem for the bank's strategic growth.
+
+### Success Criteria ::
+What would success look like?: Success would be an increase in deposit balances that enables the bank to expand its lending products while staying within regulatory     	                               constraints.
+How would actions change with customer-level predictions?: The bank could tailor campaigns to specific segments, focusing efforts on the highest ROI activities (e.g., 							   retention vs. acquisition).
+Alternative Success Criteria: Achieving the same deposit growth through different strategies (e.g., targeting different customer segments) could also be considered 			      successful.
+
+### Constraints ::
+Trade-offs: The bank needs to decide whether to focus on acquiring new customers, retaining existing ones, or saving customers who are about to leave.
+Budget and Investment Limits: The bank has limited investment, so spending needs to be optimized for maximum ROI.
+
+### Scope ::
+In Scope: Increasing deposit balances through targeted campaigns and strategic efforts.
+Out of Scope: Expanding into other financial products without first addressing the deposit issue.
+Limitations: Regulatory constraints, limited budget, and timeline pressures.
+Trade-offs: The bank might need to sacrifice growth in one segment to focus on another with higher ROI.
+
+### Actors ::
+Stakeholders: Customer Management Director: Oversees the strategy to increase deposits.
+	      Head of Communications: Ensures proper communication with customers.
+	      Head of Marketing: Develops promotional, cross-sell, and retention campaigns.
+	      Executive Team: Provides direction and funding.
+
+Reference (Past Attempts) ::
+1.Did we try this in the past?: Investigate if similar strategies were employed before. What was the outcome?
+2.Learnings: Are there any lessons from previous efforts that could help refine the strategy? If similar problems were tackled before, what insights can be gained?
+	    
+
+Convert the Business Problem to a Data Problem
+
+
+Based on the business problem, we can define a data problem:
+
+
+Customer Segmentation Analysis:
+Goal: Identify which segment (newly acquired, existing, or about-to-leave customers) will provide the highest ROI when targeted for deposit growth.
+Data Required: Customer segmentation data, historical deposit behavior, campaign success rates, customer churn data, and customer lifetime value.
+
+Predictive Modeling:
+Goal: Develop a model to predict which customers are most likely to increase their deposit balances.
+Data Required: Customer transaction history, demographic data, response rates to past campaigns, and current deposit levels.
+
+ROI Calculation:
+Goal: Calculate the ROI of focusing on each customer segment to optimize investment.
+Data Required: Campaign costs, customer acquisition costs, and revenue generated from increased deposits.
+
+Retention Analysis:
+Goal: Analyze which retention strategies have been most successful in retaining high-balance customers.
+Data Required: Retention campaign data, customer feedback, and success metrics.
+
+
+By analyzing the data in these areas, Bank X can develop targeted strategies to increase deposit balances effectively and within the constraints of limited investment.
+
+
+
+
+
+
+
+
+Chaliye TOSCAR framework ko use karke given business problem ko data problem mein convert karte hain.
+
+1. Trouble
+Problem Statement: Bank X ko apna deposit balance increase karna hai taaki wo regulatory constraints ko meet kar sake aur apne lending products ko expand kar sake.
+Specifics:
+Bank X ke pass deposits, loans, credit cards, aur mortgages ka portfolio hai.
+Ab bank ko yeh decide karna hai ki kis strategy se deposit balance increase hoga.
+Problem yeh hai ki kis segment (Newly acquired, Existing, ya Customers about to leave) pe investment karna zyada beneficial hoga.
+Underlying Trouble: Yadi bank ne existing customers ko retain kiya, to unki lifetime value (LTV) zyada hai compared to new customers.
+Time Sensitivity: Bank ko jaldi decision lena padega kyunki regulatory constraints aur expansion plans time-sensitive hain.
+
+2. Owner
+Customer Management Director: Project ke owner aur sponsor hain jo yeh decision le sakte hain ki kis strategy ko implement karna hai.
+Additional Stakeholders: Head of Marketing (promotional strategies), Head of Customer Retention (retention campaigns), Head of Analytics (data analysis and insights).
+
+3. Success Criteria
+What would success look like?: Increase in deposit balance by a significant margin within a defined time frame.
+How would you act differently?: Agar predictions available hain, to bank targeted strategies apply kar sakti hai jo zyada ROI provide karein.
+Measure the Benefit: ROI calculate karna, customer retention rate, aur deposit balance increase ko track karna.
+
+4. Constraints
+Trade-offs: Limited budget ke andar best strategy select karni hai.
+Time and Money: Investment ko optimize karna hoga taaki maximum return mil sake.
+Limitations: Data quality, customer segmentation accuracy, aur implementation challenges.
+
+5. Actors
+Customer Management Director: Decision-maker.
+Head of Marketing: Promotional strategies design karenge.
+Head of Retention: Retention campaigns manage karenge.
+Head of Analytics: Data collection aur analysis karenge.
+
+6. Reference
+Past Attempts: Dekhna hoga kya past mein aise strategies implement ki gayi thi? Outcome kya tha?
+Learnings: Jo bhi learnings hain, unhe use karke current problem ko solve karna.
+
+
+Converting Business Problem into Data Problem
+
+
+Customer Segmentation:
+* Newly Acquired Customers: Analyze historical data to understand the impact of promotional offers on new customers' deposit behavior.
+* Existing Customers: Identify patterns in existing customers’ deposit behavior. Cross-sell or up-sell campaigns can be modeled based on previous success rates.
+* Customers About to Leave: Use churn prediction models to identify at-risk customers and test different retention strategies.
+
+ROI Calculation:
+* Data Collection: Gather data on customer segments, investment costs, and expected returns.
+* Predictive Modeling: Develop models to predict which segment will provide the highest ROI based on historical data.
+* Impact Analysis: Assess the potential impact of various strategies on deposit balances and overall ROI.
+
+Strategy Formulation:
+* Promotional Balance for New Customers: Analyze the effectiveness of past promotions and develop data-driven promotional strategies.
+* Cross-sell/Up-sell for Existing Customers: Use data analytics to identify the best products to offer and forecast potential deposit increases.
+* Retention Campaigns for At-Risk Customers: Use churn prediction models to tailor retention strategies and estimate potential deposit retention.
+
+
+Summary in English:
+To convert the business problem into a data problem using TOSCAR:
+
+Trouble: Define the problem as increasing deposit balance to meet regulatory constraints.
+Owner: Identify key stakeholders and decision-makers.
+Success Criteria: Measure success by ROI and deposit balance increase.
+Constraints: Consider budget, time, and data limitations.
+Actors: Involve relevant departments for strategy and execution.
+Reference: Learn from past experiences and strategies.
+
+The data problem involves customer segmentation, ROI analysis, and strategy formulation based on data insights.
+
+
+
